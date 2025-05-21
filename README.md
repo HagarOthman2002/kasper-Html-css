@@ -2,16 +2,7 @@
 🌐 Overview
 This is a responsive landing page template inspired by the Kasper design. Built with pure HTML and CSS, it can be used for personal or business portfolio websites.
 
-📸 Demo
 
-
-
-
-
-
-
-
-Add a live preview link if hosted (e.g., GitHub Pages).
 
 🚀 Features
 Fully responsive layout
